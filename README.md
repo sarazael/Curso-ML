@@ -49,11 +49,24 @@ Posteriormente hicimos 3 prácticas.
     
     
     
- Día 4, viernes.
- 11/11/2022
- Profesor: Luis
+Día 4, viernes.
+11/11/2022
+Profesor: Luis
+ 
+Este día trabajamos con predicciones con los ejercicios anteriores y dataframes de SpaceX.
+ Entrenamos diferentes modelos de Scikit learn y vimos la precisión de cada uno, 
+ comparando todos al final. (SARA M5 - SPACEX2 - 6 - Machine Learning Predicciones.ipynb)
+ 
+Después hicieron una práctica más avanzada con Folium donde
+ pusieron el numero de lanzamientos desde cada una de las bases
+ Y calcularon los trayectos más cercanos desde diferentes puntos hasta la costa y cosas así
   
-  
+
+Día 5, sábado.
+12/11/2022
+Profesor: Luis
+
+
   
   
   
